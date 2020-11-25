@@ -1,0 +1,231 @@
+head{
+  width: 1440px;
+  height: 7544px;
+
+  background: #59B187;}
+body {
+  background-color: #59B187;
+  color: #000000;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  max-width: 1440px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+
+  header .h1{
+  /* hi, im caroline this is my design portfolio */
+position: absolute;
+left: 10%;
+right: 20%;
+top: 5%;
+bottom: 95%;
+
+font-family: Bluu Next;
+font-style: normal;
+font-weight: bold;
+font-size: 120px;
+line-height: 100%;
+/* or 120px */
+
+
+color: #000000;}
+
+
+.header .nav { 
+ 
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 120%;
+position: absolute;
+left: 87.57%;
+right: 4.72%;
+top: 0.72%;
+bottom: 98.82%;
+color: #000000;}    
+
+header .nav:hover
+{color:red;}
+
+header .img{
+  /* smile */
+  position: absolute;
+  width: 118px;
+  height: 118px;
+  left: 55px;
+  top: 33px;}
+
+  .peek
+  {padding-right: 260px;}
+
+  .peek h2 
+{ font-family: Bluu Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 120%;
+  position: absolute;
+left: 16.88%;
+right: 75.49%;
+top: 17.05%;
+bottom: 82.18%;
+
+
+color: #000000;
+}
+
+.peek .p
+{ position: absolute;
+  left: 16.88%;
+  right: 0;
+  top: 50%;
+  width: 360px;
+  bottom: 80.93%;
+  
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 120%;
+  /* or 19px */
+  
+  
+  color: #000000;
+  }
+
+
+.peek img a{
+  /* mac */
+position: absolute;
+left: 37.71%;
+right: 3.82%;
+top: 15.12%;
+bottom: 78.45%;}
+
+  .peek img b {
+  position: absolute;
+  width: 680px;
+  height: 584px;
+  left: 1397px;
+  top: 1040px;
+  
+  background: rgba(239, 104, 7, 0.7);
+  box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1);
+  transform: rotate(90deg);
+  }
+  .peek img .c {
+    position: absolute;
+    float: right;
+    left: 140px;
+    top: 873px;
+    }
+
+
+ .cambio h3{
+position: absolute;
+left: -99px;
+top: 2081px;
+text-align:left ;
+}
+
+.cambio img .a{
+  position: absolute;
+  left: 742px;
+  top: 2229px;
+  
+}
+.cambio img .b{
+  left: 623px;
+top: 2269px;
+
+background: rgba(205, 157, 160, 0.7);
+  
+}
+.deptofed p{
+position: absolute;
+left: 16.16%;
+right: 64.16%;
+top: 49.31%;
+bottom: 49.18%;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+
+
+color: #000000;
+}
+
+.deptofed img{
+
+position: absolute;
+left: 531px;
+top: 3502px;
+}
+
+.whoami img .a{
+position: absolute;
+width: 444px;
+height: 578px;
+padding-left: 787px;
+padding-right: 4546px;
+transform: rotate(-5deg)
+}
+
+.whoami img .b{
+  position: absolute;
+
+left: -107px;
+top: 5482px;
+  }
+
+  .whoami img .c{
+    position: absolute;
+
+left: 149px;
+top: 6201px;
+    }
+.whoami p {
+  position: absolute;
+  width: 657px;
+  height: 528px;
+  left: 116px;
+  top: 4737px;
+  
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 100%;
+  /* or 48px */
+  
+  letter-spacing: 1px;
+  
+  color: #000000;
+  }
+
+
+.whoami h1
+{
+  position: absolute;
+  left: 7.43%;
+  right: 16.81%;
+  top: 57.89%;
+  bottom: 37.51%;
+  
+  font-family: Josefin Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 120px;
+  line-height: 100%;}
+  
+  
